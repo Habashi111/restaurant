@@ -22,3 +22,7 @@ You can check out the live version of this project at: Live Demo
 ## Technologies
 HTML5: Structure of the website.
 CSS3: Styling and responsive layout using media queries.
+
+ # view website
+ https://habashi111.github.io/restaurant/
+ 
